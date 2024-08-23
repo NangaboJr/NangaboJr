@@ -27,7 +27,7 @@ Certification in Cybersecurity Frameworks and Principles - Coursera
 Certification in Data Analytics - IBM
 Get in Touch
 Email: nangabointerjit@gmail.com
-LinkedIn: https://linkedin.com/in/mista-nangabo-36155419b
+LinkedIn: https://linkedin.com/in/mista-nangabo
 GitHub: NangaboJr
 <!---
 NangaboJr/NangaboJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
